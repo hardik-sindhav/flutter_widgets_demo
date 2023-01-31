@@ -186,19 +186,6 @@ class _SliderWidgetsState extends State<SliderWidgets> {
             ),),
                 SizedBox(height: 20,),
 
-
-
-
-
-
-
-
-
-
-
-
-
-
               ],
             ),
           ),
